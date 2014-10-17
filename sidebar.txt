@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goc:home|Door43 (goc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goc|d43-goc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goc/archive/master.zip|d43-goc.zip]]
+
+**Recent Changes**
+{{changes>ns = goc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goc|Ethnologue data]]
+
